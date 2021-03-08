@@ -1,7 +1,7 @@
 ### case2：聊天室
 
 ##### 第一步：完成界面搭建。
-![](https://github.com/kongxubo/calculator/blob/calculator/calculator%20sketching.png)
+![](https://github.com/kongxubo/Chat-Room/blob/main/%E8%81%8A%E5%A4%A9%E5%AE%A4.png)
 
 ->  窗体：JFrame           ->  窗体标题：title           ->文本域：JTextArea           
 
