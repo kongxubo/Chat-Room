@@ -1,8 +1,7 @@
 ### case2：聊天室
 
 ##### 第一步：完成界面搭建。
-
-<img src="C:\Users\kongxubo\Desktop\聊天室.png" alt="聊天室" style="zoom:75%;" />
+![](https://github.com/kongxubo/calculator/blob/calculator/calculator%20sketching.png)
 
 ->  窗体：JFrame           ->  窗体标题：title           ->文本域：JTextArea           
 
