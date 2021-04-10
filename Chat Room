@@ -1,11 +1,11 @@
-### case2：聊天室
+### case2：聊天室 PointToPoint
 
 ##### 第一步：完成界面搭建。
 ![](https://github.com/kongxubo/Chat-Room/blob/main/%E8%81%8A%E5%A4%A9%E5%AE%A4.png)
 
-->  窗体：JFrame           ->  窗体标题：title           ->文本域：JTextArea           
+->  窗体：JFrame           ->  窗体标题：title           ->文本域：JPanel         
 
-->  面板：JPanel            ->  文本框：JTextField     ->按钮：JButton
+->  面板：JPanel            ->  文本框：JTextArea      ->按钮：JButton
 
 ##### 第二步：通信。
 
@@ -37,21 +37,7 @@ Client客户端（B）
 5. 发送
 6. 清空文本框内容
 
-
-##### 存在的不足：
-
-未实现自己发送消息时文本靠右显示，因为JTextArea不能让单行文本靠右显示，若靠右只能全部靠右。
-
-##### 改进方法：
-
-有可以使用标签Label来添加每一行文本消息在显示区域，这样就不能用JTextArea，有待改进。
-
-
-
-##### 补充：
-
-聊天记录这部分可以添加一个“聊天记录”按钮以及添加一个监听事件，点击按钮可以弹出新的JFrame窗体显示聊天记录。
-
+##### 第四步：保存聊天记录
 
 
 
